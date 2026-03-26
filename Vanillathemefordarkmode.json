@@ -1,0 +1,150 @@
+{
+  "name": "Blue Nekopara Blend",
+  "description": "White/blue theme with vanilla background",
+  "authors": [
+    {
+      "name": "slash",
+      "id": "1482411365288251392"
+    }
+  ],
+
+  "semanticColors": {
+    "ANDROID_RIPPLE": ["#4da3ff50"],
+
+    "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "HEADER_SECONDARY": ["#DCE6FF", "#C7D3DD"],
+
+    "TEXT_NORMAL": ["#FFFFFF", "#E6F0FF"],
+    "TEXT_MUTED": ["#B8C7E0", "#9FB2C9"],
+
+    "INTERACTIVE_NORMAL": ["#6CB4FF", "#4DA3FF"],
+    "INTERACTIVE_HOVER": ["#8CC8FF", "#66B2FF"],
+    "INTERACTIVE_ACTIVE": ["#4DA3FF", "#1E90FF"],
+    "INTERACTIVE_MUTED": ["#7A8FA6", "#AAB8C2"],
+
+    "BACKGROUND_PRIMARY": ["#2B2E6BE6", "#0F172ACC"],
+    "BACKGROUND_SECONDARY": ["#34377AE6", "#1E293BCC"],
+    "BACKGROUND_SECONDARY_ALT": ["#2B2E6B", "#020617"],
+    "BACKGROUND_TERTIARY": ["#3C3F88E0", "#020617CC"],
+    "BG_BASE_TERTIARY": ["#3C3F88", "#020617"],
+
+    "BACKGROUND_ACCENT": ["#3C3F88", "#1E293B"],
+    "BACKGROUND_FLOATING": ["#34377AE6", "#1E293BCC"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#2B2E6BE6", "#0F172ACC"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#34377A", "#1E40AF"],
+
+    "BACKGROUND_NESTED_FLOATING": ["#34377A", "#1E293B"],
+    "BACKGROUND_MESSAGE_HOVER": ["#3C3F88CC", "#1E293BCC"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#3C3F88", "#1E293B"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#4A4EB0", "#1E293B"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5A60D1", "#1E40AF"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#3C3F88", "#1E293B"],
+
+    "SCROLLBAR_THIN_THUMB": ["#6CB4FF", "#1E40AF"],
+    "SCROLLBAR_THIN_TRACK": ["#2B2E6B", "#0F172A"],
+    "SCROLLBAR_AUTO_THUMB": ["#6CB4FF", "#1E40AF"],
+    "SCROLLBAR_AUTO_TRACK": ["#2B2E6B", "#0F172A"],
+
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#AFC3E6", "#8FA3BD"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#2B2E6BCC", "#020617CC"],
+
+    "CHANNELS_DEFAULT": ["#8CC8FF", "#6CB4FF"],
+    "TEXT_LINK": ["#8CC8FF", "#6CB4FF"],
+
+    "KEYBOARD": ["#2B2E6B", "#020617"],
+    "CHANNEL_ICON": ["#6CB4FF", "#C7D3DD"],
+
+    "BG_BASE_PRIMARY": ["#2B2E6B"],
+    "BG_BASE_SECONDARY": ["#34377A"],
+
+    "BORDER_FAINT": ["#4A4EB0"],
+    "BORDER_STRONG": ["#6CB4FF"],
+    "BORDER_SUBTLE": ["#4A4EB0"],
+
+    "CARD_SECONDARY_BG": ["#34377A"],
+    "CARD_PRIMARY_BG": ["#2B2E6B"],
+
+    "MENTION_FOREGROUND": ["#6CB4FF"],
+
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#34377A"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#34377A"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#34377A"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#6CB4FF"],
+
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#DCE6FF"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#FFFFFF"],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#2B2E6B"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#3C3F88"],
+
+    "TEXT_DANGER": ["#FF4D4D"],
+
+    "BG_BACKDROP": ["#1A1C4A90"]
+  },
+
+  "rawColors": {
+    "PRIMARY_DARK": "#1E293B",
+    "PRIMARY_100": "#2B2E6B",
+    "PRIMARY_200": "#34377A",
+    "PRIMARY_300": "#3C3F88",
+    "PRIMARY_360": "#6CB4FF",
+    "PRIMARY_400": "#6CB4FF",
+    "PRIMARY_500": "#4DA3FF",
+    "PRIMARY_600": "#1E90FF",
+    "PRIMARY_630": "#1E40AF",
+    "PRIMARY_660": "#1E293B",
+    "PRIMARY_700": "#1E40AF",
+    "PRIMARY_800": "#0F172A",
+
+    "BRAND_260": "#34377A",
+    "BRAND_360": "#6CB4FF",
+    "BRAND_500": "#4DA3FF",
+    "BRAND_560": "#60A5FA",
+    "BRAND_900": "#0F172A",
+
+    "BLUE_345": "#6CB4FF",
+    "WHITE_500": "#EAF3FF",
+    "WHITE_630": "#AAB8C2"
+  },
+
+  "fonts": {},
+
+  "background": {
+    "alpha": 20,
+    "url": "https://raw.githubusercontent.com/slashypoo/nekopara-vanilla-theme/refs/heads/main/IMG_0741.gif?raw=true"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "customOverlays": true,
+    "icons": {
+      "account": "#6CB4FF",
+      "add": "#6CB4FF",
+      "close": "#FF4D4D",
+      "copy": "#6CB4FF",
+      "Discord": "#6CB4FF",
+      "Friends": "#6CB4FF",
+      "ic_add_friend": "#6CB4FF",
+      "ic_check": "#6CB4FF",
+      "ic_close": "#FF4D4D",
+      "ic_edit_24px": "#6CB4FF",
+      "ic_gear": "#6CB4FF",
+      "ic_group_dm": "#6CB4FF",
+      "ic_link": "#6CB4FF",
+      "ic_logout_24px": "#FF4D4D",
+      "ic_message_delete": "#FF4D4D",
+      "ic_message_edit": "#6CB4FF",
+      "ic_settings": "#6CB4FF",
+      "ic_trash_filled": "#FF4D4D",
+      "StatusOnline": "#00C853",
+      "StatusIdle": "#FFD600",
+      "StatusDND": "#FF4D4D",
+      "StatusOffline": "#546E7A"
+    }
+  },
+
+  "spec": 2
+}
